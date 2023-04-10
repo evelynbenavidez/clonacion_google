@@ -114,7 +114,7 @@ main .main-input .micro-icon{
 
 main .main-input .cam-icon{
     background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQU9EB56qp8B5qgt89OtkGpN86KFafBM7cBixk1nXOs7ukEVbJE");
-    width: 20px;
+    width: 25px;
     height: 25px;
     padding-right: 30px;
     background-repeat: no-repeat;
@@ -122,17 +122,17 @@ main .main-input .cam-icon{
     background-size: contain;
 }
 
-main .main-button{
+main .main-buttons{
     width: 530px;
     margin: 0 auto;
 }
 
-main .main-button div{
+main .main-buttons div{
     display: inline-block;
 
 }
 
-main .main-button button{
+main .main-buttons button{
     height: 36px;
     background-color: #f8f9fa;
     border: 0;
